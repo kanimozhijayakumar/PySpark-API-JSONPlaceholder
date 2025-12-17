@@ -28,9 +28,7 @@ https://jsonplaceholder.typicode.com
 ## ▶️ Run the Project
 Click the button below to run the notebook directly in Google Colab:
 
-[![Open In Colab]
-(https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/YOUR_USERNAME/pyspark-api-etl-project/blob/main/jsonplaceholder_pyspark.ipynb)
+https://colab.research.google.com/drive/1__wLjaKLiOFGZW5v5oDPFWM69i8kofDY#scrollTo=-qXEUWM-W5-P
 
 ## 📂 Project Structure
 - `jsonplaceholder_pyspark.ipynb` – Main PySpark notebook
